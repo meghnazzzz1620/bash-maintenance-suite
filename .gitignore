@@ -1,0 +1,4 @@
+backups/
+*.tar.gz
+*.log
+log_alerts.log
