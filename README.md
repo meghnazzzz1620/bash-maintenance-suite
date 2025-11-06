@@ -11,14 +11,15 @@ The suite also includes a **menu-driven interface** to run all scripts from one 
 ---
 
 ## 🗂️ Project Structure
-bash-maintenance-suite/
-├── backup.sh # Automates file and folder backups
-├── update_cleanup.sh # Updates the system and removes unused packages
-├── log_monitor.sh # Checks logs for errors and warnings
-├── maintenance_suite.sh # Menu-driven interface for all scripts
-└── README.md # Project documentation
 
----
+```text
+bash-maintenance-suite/
+├── backup.sh             # Automates file and folder backups
+├── update_cleanup.sh     # Updates the system and removes unused packages
+├── log_monitor.sh        # Checks logs for errors and warnings
+├── maintenance_suite.sh  # Menu-driven interface for all scripts
+└── README.md             # Project documentation
+
 
 ## ⚙️ How to Run the Project
 
